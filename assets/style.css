@@ -6,13 +6,14 @@ body {
   font-family: 'roboto', regular 400;
   font-size: 16px;
   line-height: 1.5;
-  color: hsl(0, 0%, 100%);
+  color: #101e41;
   margin: 0;
   padding: 0;
+  background-color: #101e41;
 }
 
 header {
-  background-color: #2558ff;
+  background-color: #101e41;
   padding: 20px;
 }
 
@@ -21,7 +22,7 @@ h1 {
   font-size: 14px;
   font-weight: bold;
   font-family: 'Roboto', regular;
-  color: #1d2d62;
+  color: #ffffff;
   text-align: justify;
 }
 
@@ -39,12 +40,12 @@ h3 {
   font-size: 48px;
   font-weight: bold;
   font-family: 'Orbitron', regular;
-  color: #02136e;
+  color: #ffffff;
   text-align: center;
 }
 a {
   text-decoration: none;
-  color: #1d2d62;
+  color: #ffffff;
 }
 p {
   margin: 20px 0;
@@ -55,18 +56,18 @@ p {
 }
 
 .btn-primary {
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 
 .btn-primary:hover {
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 
 .btn-primary:focus,
 .btn-primary.focus {
-  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+  box-shadow: 0 0 0 0.2rem #ffffff;
 }
 
 footer {
@@ -74,7 +75,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #aba9fa;
+  background-color: #ffffff;
   padding: 10px;
   text-align: center;
   font-size: 14px;
@@ -106,7 +107,7 @@ div {
 
 .social-icons a {
   text-decoration: none;
-  color: #02136e;
+  color: #ffffff;
   font-size: 50px;
   padding: 15px;
 }
